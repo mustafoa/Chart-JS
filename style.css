@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.tt{
+    padding-top: 96px!important;
+    font-size: 35px;
+    color: gray;
+    font-weight: 500;
+    margin-bottom: 0px!important;
+}
